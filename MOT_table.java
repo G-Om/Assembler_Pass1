@@ -79,5 +79,19 @@ public class MOT_table {
         }
         return -1;
     }
+    public void printAll(){
+        System.out.println(AD.toString());
+        System.out.println(IS.toString());
+        System.out.println(DL.toString());
+        System.out.println(RG.toString());
+        System.out.println(CC.toString());
+    }
+
+    public static void main(String[] args) {
+        MOT_table mot = new MOT_table();
+        mot.printAll();
+    }
 
 }
+
+
