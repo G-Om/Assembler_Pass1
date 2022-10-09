@@ -1,0 +1,19 @@
+
+Java BufferedReader (With Examples) - Programizhttps://www.programiz.com ›
+ java-programming › buff...
+The Java BufferedReader class is used with other readers to read data (in characters)
+ more efficiently. In this tutorial, we will learn about the Java ...
+
+BufferedReader class in Java. - Tutorialspointhttps://www.tutorialspoint.com ›
+ bufferedreader-class-i...
+12-Sept-2019 — The BufferedReader class of Java is used to read the stream of 
+characters from the specified source (character-input stream).
+
+BufferedReader in Java : How To Read Text From Input Streamhttps://www.edureka.co ›
+ blog › bufferedreader-in-java
+10-Jun-2021 — BufferedReader is a Java class that reads text from the input stream. 
+It buffers the characters so that it can get the efficient reading of ...
+29 Oct - 11 Dec
+Java Certification Training ...
+26 Nov 2022 - 8 Jan 2023
+Java Certification ...
